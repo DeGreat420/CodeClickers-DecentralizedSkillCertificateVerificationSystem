@@ -2,7 +2,11 @@
 
 ## Team Details  
 - **Team Name:** Code Clickers  
-- **Team Members:** [Add member names here]  
+### Members  
+- *Jero Grabo* – Blockchain Architect & Chief Coder  
+- *Hulash Sahu* – PPT Designer  
+- *Chandan Chandrakar* – PPT Designer  
+- *Karan Sahu* – Testing  
 
 ## Problem Statement  
 Traditional skill certificates are easy to forge, hard to verify, and lack a trusted decentralized validation system.  
