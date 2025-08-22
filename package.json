@@ -1,0 +1,19 @@
+{
+  "name": "skill-cert-dapp-clean",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "start:web": "http-server web -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
