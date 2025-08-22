@@ -111,3 +111,6 @@ Not applicable – all UI is built directly in code.
 - Build mobile-friendly front-end.  
 - Integration with universities/companies for direct issuance.  
 - On-chain reputation/skill scoring system.  
+
+https://drive.google.com/file/d/1_XlmOZrRBPjcuqqEAH8r6LJ8tjhrT1Em/view?usp=drive_link
+
